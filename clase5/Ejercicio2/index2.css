@@ -1,0 +1,21 @@
+h1 {
+    font-size: 45px;
+}
+
+div {
+    width: 180px;
+    height: 28px;
+    font-size: 25px;
+    color: white;
+    background-color: blue;
+    margin-top: 7px;
+    margin-bottom: 7px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div:hover {
+    border: 3px solid red;
+}
