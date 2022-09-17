@@ -1,0 +1,40 @@
+body {
+    background-color: #CFC;
+}
+
+p {
+    color:#00F;
+    font-size: 16px;
+    font-family: Georgia, Cambria, serif;
+}
+
+ul {
+    color:#00F;
+    font-size: 16px;
+    font-family: Georgia, Cambria, serif;
+}
+
+h1 {
+    color:#F00;
+    font-size: 32px;
+    font-family: Verdana, Calibri, sans-serif;
+}
+
+h2 {
+    color:#A00;
+    font-size: 24px;
+    font-family: Verdana, Calibri, sans-serif;
+}
+
+#resaltado1 {
+    color:#060;
+}
+
+#resaltado2 {
+    font-size: 20px;
+}
+
+#resaltado3 {
+    background-color: #000;
+    color: #FFF;
+}
