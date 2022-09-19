@@ -1,0 +1,195 @@
+body {
+    background-image: url(https://png.clipart.me/istock/previews/7110/71106191-vector-chevrons-seamless-pattern-background-retro-vintage-design-eps.jpg);
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+main {
+    clear: both;
+}
+
+footer {
+    background-color:white;
+    height: 85px;
+    font-family: sans-serif;
+    font-size: 16px;
+}
+
+h1 {
+    background-color: rgb(230, 124, 54);
+    text-align: center;
+    color: white;
+}
+
+h2 {
+    color: black;
+    text-align: center;
+}
+
+table, th, td {
+    border: 0.5mm solid;
+}
+
+h3 {
+    color: rgb(61, 116, 218);
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+h4 {
+    color: crimson;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+th {
+    color: brown;
+}
+
+div#a {
+    clear: both;
+}
+
+
+div#b {
+    width: 170px;
+    height: 30px;
+    background-color: navajowhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    margin: auto; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+div#b:hover {
+    background-color: rgb(61, 116, 218);
+    color: white;
+}
+
+div#c {
+    clear: both;
+}
+
+div#d {
+    clear: both;
+}
+
+div#e {
+    clear: both;
+}
+
+#resaltado1 {
+    color: crimson;
+    background-color: navajowhite;
+}
+
+p#a {
+    width: 78%;
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+p#b {
+    width: 78%;
+    float: right;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+p#c {
+    width: 78%;
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+img#a {
+    float: right;
+    width: 20%;
+    height: auto;
+}
+
+img#b {
+    float: left;
+    width: 20%;
+    height: auto;
+}
+
+img#c {
+    float: right;
+    width: 20%;
+    height: auto;
+}
+
+li#a {
+    display: block;
+    margin: auto;
+}
+
+div#header {
+    width: 350px;
+    float: left;
+    margin-top: 25px;
+}
+
+div#logo {
+    float:right;
+    margin-top: 35px;
+}
+
+div#seccion {
+    background-color: rgb(61, 116, 218);
+    color: white;
+    font-family:sans-serif;
+    font-size: 20px;
+    height: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+ul {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+ol {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+div#titulo_descripciones {
+    color: brown;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+div#descripciones {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+table {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+form {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+div#links {
+    float:left;
+}
+
+div#logo2 {
+    float:right;
+    margin-top: 10px;
+    margin-right: 10px;
+}
