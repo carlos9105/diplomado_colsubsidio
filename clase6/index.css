@@ -1,0 +1,35 @@
+h1 {
+    text-align: center;
+}
+
+body {
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+#seccion_izquierda {
+    float: left;
+    width: 28%;
+}
+
+#seccion_derecha {
+    float: right;
+    width: 70%;
+}
+
+div#columna_izquierda {
+    float: left;
+    width: 32%;
+}
+
+div#columna_centro {
+    float: left;
+    width: 32%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+div#columna_derecha {
+    float: left;
+    width: 32%;
+}
