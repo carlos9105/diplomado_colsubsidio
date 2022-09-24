@@ -57,6 +57,7 @@ p {
 }
 
 .texto_final {
+    text-align: center;
     margin: 1%;
     color: white;
 }
