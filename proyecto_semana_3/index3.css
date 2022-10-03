@@ -1,0 +1,38 @@
+/*
+- No se puede poner codigo css propio para una clase de bootstrap.
+- Solo se puede usar 1 archivo de css propio.
+- El archivo no puede exceder las 100 lineas de codigo, no es valido escribir estilo en 1 linea. 
+- Cada sentencia de css deberá ser unico por linea.
+*/
+
+.carousel-inner {
+    max-height: 39rem;
+    display: flex;
+    align-items: center;
+}
+
+.resaltado-principal {
+    color: #E36E4C;
+}
+
+#iconos i {
+    color: white;
+    font-size: 20px;
+}
+
+.fondo-principal {
+    background-color: #E36E4C;
+}
+
+#caja {
+    border: 4px solid #E36E4C;
+    border-radius: 5px;
+}
+
+#imagen-lista {
+    border-radius: 5px;
+}
+
+#pie {
+    background-color: #E36E4C;
+}
